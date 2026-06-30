@@ -1,6 +1,23 @@
 # TinkerSpace
+───────────────────
 
-## ⚠️ WORK IN PROGRESS
+## Modern Maker Platform
 
+✔ Vue 3
 
-![WIP](https://img.shields.io/badge/status-WIP-yellow)
+✔ Vite
+
+✔ Pinia
+
+✔ Vue Router
+
+✔ Supabase
+
+✔ Tailwind CSS
+
+✔ GitHub Actions
+
+✔ GitHub Pages
+
+# Project Status:
+ █░░░░░░░░░ 10%
