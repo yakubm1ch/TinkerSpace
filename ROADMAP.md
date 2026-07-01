@@ -5,8 +5,8 @@
 - [x] GitHub
 - [x] Vue
 - [x] Router
-- [ ] Tailwind
-- [ ] Layout
+- [x] Tailwind
+- [x] Layout
 
 ## Phase 2
 
