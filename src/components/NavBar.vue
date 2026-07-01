@@ -23,7 +23,7 @@ function navLabel(route) {
       class="font-display text-xl sm:text-2xl font-extrabold text-gradient select-none"
       @click="router.push('/')"
     >
-      NEXUS
+      TINKERSPACE
     </button>
 
     <ul class="hidden md:flex gap-1">
